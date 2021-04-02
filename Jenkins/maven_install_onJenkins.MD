@@ -9,7 +9,7 @@ Maven is a code build tool which used to convert your code to an artifact. this 
 1. Download maven packages https://maven.apache.org/download.cgi onto Jenkins server. In this case, I am using /opt/maven as my installation directory
  - Link : https://maven.apache.org/download.cgi
     ```sh
-     cd /opt/maven
+     cd /opt
     #This example shows version 3.6.3. Substitute the download URL for the most recent version of Apache Maven from the official website. Choose the "Binary tar.gz archive".:
     sudo wget http://apache.mirrors.pair.com/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
     #Once the download has completed, extract the downloaded archive.
