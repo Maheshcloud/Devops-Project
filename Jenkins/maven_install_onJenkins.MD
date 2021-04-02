@@ -34,8 +34,8 @@ So far we have completed the installation of maven software to support maven plu
 
 ### Setup maven on Jenkins console
 1. Install maven plugin without restart  
-  - `Manage Jenkins` > `Jenkins Plugins` > `available` > `Maven Invoker`
-  - `Manage Jenkins` > `Jenkins Plugins` > `available` > `Maven Integration`
+  - `Manage Jenkins` > `Manage Plugins` > `available` > `Maven Invoker`
+  - `Manage Jenkins` > `Manage Plugins` > `available` > `Maven Integration`
 
 2. Configure maven path
   - `Manage Jenkins` > `Global Tool Configuration` > `Maven`
