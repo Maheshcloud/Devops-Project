@@ -27,10 +27,10 @@ Need to Open port 22 for SSH, port 80 for HTTP and port 443 for HTTPS and port 8
    _The output should be something like this,_
     ```sh
    [root@~]# java -version
-  openjdk version "11.0.10" 2021-01-19
-  OpenJDK Runtime Environment (build 11.0.10+9-Ubuntu-0ubuntu1.18.04)
-  OpenJDK 64-Bit Server VM (build 11.0.10+9-Ubuntu-0ubuntu1.18.04, mixed mode, sharing)
-  ```
+   openjdk version "11.0.10" 2021-01-19
+   OpenJDK Runtime Environment (build 11.0.10+9-Ubuntu-0ubuntu1.18.04)
+   OpenJDK 64-Bit Server VM (build 11.0.10+9-Ubuntu-0ubuntu1.18.04, mixed mode, sharing)
+   ```
 
 ## Install Jenkins
  You can install jenkins using the rpm or by setting up the repo. We will set up the repo so that we can update it easily in the future.
