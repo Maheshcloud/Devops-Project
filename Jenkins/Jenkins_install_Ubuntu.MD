@@ -68,6 +68,7 @@ Need to Open port 22 for SSH, port 80 for HTTP and port 443 for HTTPS and port 8
 - The default Username is `admin`
 - Grab the default password 
 - Password Location:`/var/lib/jenkins/secrets/initialAdminPassword`
+- Select Install suggested plugins
 
 - Change admin password
    - `Admin` > `Configure` > `Password`
