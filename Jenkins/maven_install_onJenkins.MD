@@ -22,8 +22,7 @@ Maven is a code build tool which used to convert your code to an artifact. this 
    ```sh
    vi ~/.bash_profile
    M2_HOME=/opt/maven
-   M2=$M2_HOME/bin
-   PATH=<Existing_PATH>:$M2_HOME:$M2
+   PATH=${M2_HOME}/bin:${PATH}
    ```
 #### Checkpoint 
 1. logoff and login to check maven version
