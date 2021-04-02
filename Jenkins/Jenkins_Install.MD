@@ -4,7 +4,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 
 ### Prerequisites
 AWS Security Group:
-Need to Open port 22 for SSH, port 80 for HTTP and port 443 for HTTPS
+Need to Open port 22 for SSH, port 80 for HTTP and port 443 for HTTPS and port 8080 as Jenkins runs on port 8080
 
 
 ## Install Java
